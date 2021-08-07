@@ -1,1 +1,2 @@
 # Configuration for Carthage (https://github.com/Carthage/Carthage)
+github "yagsn/Base32" "develop"
